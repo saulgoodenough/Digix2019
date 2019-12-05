@@ -44,7 +44,7 @@ model.compile(loss='categorical_crossentropy',optimizer=adam,metrics=['accuracy'
 
 
 
-<img src="/home/tiger/.config/Typora/typora-user-images/image-20191205215752787.png" alt="image-20191205215752787" style="zoom:80%;" />
+<img src="./img/fig1.png" alt="image-20191205215752787" style="zoom:80%;" />
 
 Dense block的实现代码
 
