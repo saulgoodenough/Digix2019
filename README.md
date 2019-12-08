@@ -6,6 +6,8 @@
 
 根据手机型号，颜色，用户偏好，手机APP等信息预测用户年龄．
 
+https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-02/introduction
+
 ### 解决方案
 
 这次比赛我们主要选择神经网络和lightgbm两种模型
